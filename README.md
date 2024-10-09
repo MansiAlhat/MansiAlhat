@@ -20,6 +20,11 @@
   <img src="https://img.shields.io/badge/-CSS-87CEEB?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-4682B4?style=flat-square&logo=c%2b%2b&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-FF4500?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Matplotlib-FF7F50?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Seaborn-2E8B57?style=flat-square&logoColor=white" />
 </p>
 
 ---
@@ -44,8 +49,11 @@
 
 <h2 align="center">💻 Projects 💻</h2>
 <div align="center">
-  <a href="https://github.com/MansiAlhat/AccuKnox-Assignments" title="AccuKnox Assignments">
-    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=MansiAlhat&repo=AccuKnox-Assignments&theme=gruvbox&border_color=FFD700&border_radius=8">
+  <a href="https://github.com/MansiAlhat/Diwali_Sales_Analysis" title="Diwali Sales Analysis">
+    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=MansiAlhat&repo=Diwali_Sales_Analysis&theme=gruvbox&border_color=FFD700&border_radius=8">
+  </a>
+  <a href="https://github.com/MansiAlhat/ECommerce-Biryaniwebsite" title="ECommerce Biryani Website">
+    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=MansiAlhat&repo=ECommerce-Biryaniwebsite&theme=gruvbox&border_color=FFD700&border_radius=8">
   </a>
 </div>
 
